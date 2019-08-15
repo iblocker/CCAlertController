@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CCAlertController'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CCAlertController.'
+  s.summary          = 'CCAlertController'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,14 +17,12 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = '基于UIAlertController编写的弹窗，可订制颜色、字体大小、对齐方式等。'
 
   s.homepage         = 'https://github.com/iBlocker/CCAlertController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'iBlocker' => 'lij@chinacaring.com' }
+  s.author           = { 'iBlocker' => 'lijianwr@163.com' }
   s.source           = { :git => 'https://github.com/iBlocker/CCAlertController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
