@@ -22,7 +22,7 @@ pod 'CCAlertController'
 
 ## Author
 
-iBlocker, lij@chinacaring.com
+iBlocker, lijianwr@163.com
 
 ## License
 
